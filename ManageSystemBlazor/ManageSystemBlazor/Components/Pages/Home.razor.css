@@ -1,0 +1,37 @@
+﻿.login-section {
+    
+}
+
+.login-form {
+    background-color: #858994;
+    padding: 30px;
+}
+
+.login-form .login-icon {
+    font-size: 2rem;
+    color: #38425D;
+}
+
+.login-form .login-text {
+    color: #343F58;
+    font-size: 2em;
+}
+
+.login-form .login-forgot {
+    color: white;
+    font-size: 0.9em;
+    font-style: italic;
+}
+
+.login__input-box {
+    width: 300px;
+}
+
+.login__login-button {
+    width: 100%;
+}
+
+.login__login-button button {
+    width: 8rem;
+    background-color: #49495F;
+}
